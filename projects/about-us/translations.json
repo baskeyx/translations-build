@@ -2,7 +2,7 @@
   {
     "languageCode": "en",
     "header":
-      "Welcome to Farfetch",
+      "Welcome to Farfetch<br>the world’s greatest selection of luxury",
     "intro":
       "Enjoy express worldwide delivery and&nbsp;same-day delivery in London, New York, Paris, Los Angeles, Miami, Madrid, Milan, Barcelona and Rome, plus swift and simple returns, and exciting new men’s, women’s and kids pieces uploaded every day!",
     "title": "Our History",
@@ -24,7 +24,7 @@
   {
     "languageCode": "es",
     "header":
-      "Bienvenido a Farfetch",
+      "Bienvenido a Farfetch<br>el lugar con la mejor selección de lujo del mundo",
     "intro":
       "Disfruta de entregas express en todo el mundo; entregas en el mismo día en Londres, Nueva York, París, Los Ángeles, Miami, Madrid, Milán, Barcelona y Roma; y cambios y devoluciones de forma fácil, además de piezas nuevas todos los días para hombre, mujer y niños.",
     "title": "Nuestra historia",
@@ -45,7 +45,7 @@
   },
   {
     "languageCode": "ru",
-    "header": "Добро пожаловать",
+    "header": "Добро пожаловать<br>в мир эксклюзивного шопинга Farfetch",
     "intro":
       "К вашим услугам доставка в день заказа в Лондоне, Нью-Йорке, Париже, Лос-Анджелесе, Майами, Милане, Барселоне и Риме; только актуальные коллекции для женщин, мужчин и детей; бесплатный возврат из любой точки мира.",
     "title": "Наша история",
@@ -67,7 +67,7 @@
   {
     "languageCode": "mx",
     "header":
-      "Bienvenido a Farfetch",
+      "Bienvenido a Farfetch,<br>el lugar con la mejor selección de lujo del mundo",
     "intro":
       "Disfruta de entregas express en todo el mundo; entregas en el mismo día en Londres, Nueva York, París, Los Ángeles, Miami, Madrid, Milán, Barcelona y Roma; y cambios y devoluciones de forma fácil, además de piezas nuevas todos los días para hombre, mujer y niños.",
     "title": "Nuestra historia",
@@ -88,7 +88,7 @@
   },
   {
     "languageCode": "kr",
-    "header": "세계 최고의 럭셔리 셀렉션",
+    "header": "세계 최고의 럭셔리 셀렉션,<br>파페치에 오신 것을 환영합니다",
     "intro":
       "전 세계로 제공되는 빠른 배송 서비스를 즐겨보세요. 남성, 여성, 키즈 신상품이 매일 업데이트 됩니다!",
     "title": "Farfetch 히스토리",
@@ -109,7 +109,7 @@
   },
   {
     "languageCode": "jp",
-    "header": "世界の最新コレクションを網羅した",
+    "header": "世界の最新コレクションを網羅した、<br>Farfetchへようこそ！",
     "intro":
       "ロンドン、ニューヨーク、パリ、ロサンゼルス、マイアミ、マドリッド、ミラノ、バルセロナ、ローマで当日配送を行っているほか、グローバルなエクスプレス配送、簡単＆スピーディーな返品サービスをご利用いただけます。また、メンズ、レディース、キッズと新着アイテムが毎日続々と追加されます。",
     "title": "Farfetchの歴史",
@@ -131,7 +131,7 @@
   {
     "languageCode": "it",
     "header":
-      "Benvenuti su Farfetch",
+      "Benvenuti su Farfetch,<br>il più grande portale per gli amanti del lusso",
     "intro":
       "Goditi la spedizione in tutto il mondo oppure lo stesso giorno a Londra, New York, Parigi, Los Angeles, Miami, Madrid, Milano, Barcellona e Roma. Inoltre, ogni giorno puoi ricevere news sui nuovi prodotti disponibili per uomo, donna e bambino con la possibilità di resi semplici e veloci!",
     "title": "La nostra storia",
@@ -152,7 +152,7 @@
   },
   {
     "languageCode": "fr",
-    "header": "Bienvenue sur Farfetch",
+    "header": "Bienvenue sur Farfetch,<br>la meilleure sélection luxe du monde",
     "intro":
       "Profitez de la livraison internationale rapide et de la livraison le jour même à Londres, New York, Paris, Los Angeles, Miami, Madrid, Milan, Barcelone et Rome, des retours faciles et rapides, et des nouveautés homme, femme et enfant tous les jours !",
     "title": "Notre histoire",
@@ -174,7 +174,7 @@
   {
     "languageCode": "de",
     "header":
-      "Willkommen bei Farfetch!",
+      "Willkommen bei Farfetch!<br>Wir bieten die weltweit größte Auswahl an Luxusartikeln",
     "intro":
       "Genießen Sie golabalen Expressversand, Zustellung am selben Tag in den Städten London, New York, Paris, Los Angeles, Miami, Madrid, Mailand, Barcelona und Rom, schnelles und einfaches Retournieren, plus täglich aufregende Neuzugänge für Damen, Herren und Kinder!",
     "title": "Unsere Geschichte",
@@ -195,7 +195,7 @@
   },
   {
     "languageCode": "cn",
-    "header": "欢迎来到Farfetch",
+    "header": "欢迎来到Farfetch,<br>享誉全球的多元化时尚精品购物平台",
     "intro":
       "在这儿，您能畅享直达全球的快捷配送（包括伦敦、纽约、巴黎、洛杉矶、迈阿密、马德里、米兰、巴塞罗那和罗马等地的当日配送服务），轻松便捷的退货流程，更有时尚新品每日上架，横跨男士、女士与童装系列！",
     "title": "我们的历史",
@@ -216,7 +216,7 @@
   },
   {
     "languageCode": "br",
-    "header": "Bem-vindo(a) à Farfetch",
+    "header": "Bem-vindo(a) à Farfetch,<br>a melhor seleção de luxo do mundo",
     "intro":
       "Aproveite a entrega expressa no mundo todo e receba no mesmo dia em Londres / NY / Paris / LA / Miami / Madrid / Milão / Barcelona / Roma, devoluções simplificadas, além de novidades da moda feminina, masculina e infantil chegando todos os dias!",
     "title": "Nossa história",

@@ -1,0 +1,72 @@
+[
+  {
+    "languageCode": "en",
+    "title": "Sale",
+    "subtitle": "Get lucky",
+    "subtitle2": "1000 items at up to 60% off",
+    "cta": "SHOP SALE"
+  },
+  {
+    "languageCode": "fr",
+    "title": "Promotions",
+    "subtitle": "Ne ratez pas votre chance",
+    "subtitle2": "1000 articles jusqu'à -60 %",
+    "cta": "Parcourez nos soldes"
+  },
+  {
+    "languageCode": "jp",
+    "title": "セールはまだ開催中",
+    "subtitle": "リュクスな一点モノをゲット",
+    "subtitle2": "1000ものアイテムが最大60％OFF",
+    "cta": "セールを見る"
+  },
+  {
+    "languageCode": "cn",
+    "title": "Sale持续进行中",
+    "subtitle": "幸运之神来敲门",
+    "subtitle2": "近1000商品现正低至4折",
+    "cta": "选购SALE"
+  },
+  {
+    "languageCode": "de",
+    "title": "Sale",
+    "subtitle": "Verlieben Sie sich neu!",
+    "subtitle2": "1000 Artikel bis 60% reduziert",
+    "cta": "Sale shoppen"
+  },
+  {
+    "languageCode": "kr",
+    "title": "Sale",
+    "subtitle": "행운을 내 두손에!",
+    "subtitle2": "1000가지 이상의 상품 최대 60% 할인",
+    "cta": "세일 쇼핑하기"
+  },
+  {
+    "languageCode": "es",
+    "title": "Rebajas",
+    "subtitle": "Aprovéchate",
+    "subtitle2": "1000 artículos hasta con -60%",
+    "cta": "COMPRAR REBAJAS"
+  },
+  {
+    "languageCode": "mx",
+    "title": "Rebajas",
+    "subtitle": "Saca partido",
+    "subtitle2": "1000 artículos hasta con -60%",
+    "cta": "COMPRAR REBAJAS"
+  },
+  {
+    "languageCode": "ru",
+    "title": "РАСПРОДАЖА",
+    "subtitle": "Следите за обновлениями",
+    "subtitle2": "Более 1000 моделей со скидками до 60%",
+    "cta": "ВЫБРАТЬ ЛУЧШЕЕ"
+  },
+  {
+    "languageCode": "it",
+    "title": "Saldi",
+    "subtitle": "Gioca la fortuna",
+    "subtitle2": "1000 prodotti fino al 60%",
+    "cta": "Acquista i Saldi"
+  }
+]

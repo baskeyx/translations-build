@@ -1,0 +1,229 @@
+<div class="container bgcolor-white">
+    <picture>
+        <source media="(max-width: 480px)" srcset="https://cdn-static.farfetch.com/Content/UP/people_page/2018/02/Feb-Season/ABOUT_US_PAGE/About_us_xsm.jpg">
+        <source media="(max-width: 768px)" srcset="https://cdn-static.farfetch.com/Content/UP/people_page/2018/02/Feb-Season/ABOUT_US_PAGE/About_us_sm1.jpg">
+        <source media="(max-width: 1024px)" srcset="https://cdn-static.farfetch.com/Content/UP/people_page/2018/02/Feb-Season/ABOUT_US_PAGE/About_us_md.jpg">
+        <source media="(min-width: 1025px)" srcset="https://cdn-static.farfetch.com/Content/UP/people_page/2018/02/Feb-Season/ABOUT_US_PAGE/About_us_lg.jpg"><img class="resp-img" src="https://cdn-static.farfetch.com/Content/UP/people_page/2018/02/Feb-Season/ABOUT_US_PAGE/About_us_lg.jpg" alt="About Farfetch"></picture>
+    <div class="aboutUsContainer">
+        <div class="aboutUs col6 col-md-10 col-sm-11 col-xs-12">
+            <h1 class="align-center aboutUs__title regular pt30 mb20">@@header</h1>
+            <p class="align-center h4 mb30 pr30 pl30">@@intro</p>
+            <h2
+                class="aboutUs__title align-center regular pt30 mb20">@@title</h2>
+                <div class="timeline">
+                    <div class="timeline__line">
+                        <h3 class="timeline__date timeline__startDate">2008</h3>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <div class="timeline__dot"></div>
+                        <h3 class="timeline__date timeline__currentDate">2017</h3>
+                    </div>
+                    <div class="timeline__description col12">
+                        <p class="timeline__descriptionStartDate h3 heading-bold"><span class="timeline__label">2008</span></p>
+                        <p class="timeline__item first">@@timeline1</p>
+                        <p class="timeline__item">@@timeline2</p>
+                        <p class="timeline__item">@@timeline3</p>
+                        <p class="timeline__item">@@timeline4</p>
+                        <p class="timeline__item">@@timeline5</p>
+                        <p class="timeline__item timeline__quote h3"><i>@@quote1</i></p>
+                        <p class="timeline__item">@@timeline6</p>
+                        <p class="timeline__descriptionCurrentDate h3 heading-bold"><span class="timeline__label">2017</span></p>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+<style>
+    .timeline,
+    .aboutUsContainer,
+    .aboutUs,
+    .timeline__line,
+    .timeline__item {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .aboutUsContainer,
+    .aboutUs {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .aboutUs,
+    .timeline__line,
+    .timeline__item {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .aboutUs__title {
+        text-transform: none;
+        letter-spacing: normal;
+    }
+
+    .timeline__line {
+        position: relative;
+        min-width: 100px;
+        padding-bottom: 70px;
+        margin: 0 30px 0 -100px;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .timeline__date {
+        position: absolute;
+        text-align: center;
+        letter-spacing: normal;
+        width: 100%;
+        background-color: #fff;
+        z-index: 3;
+    }
+
+    .timeline__startDate {
+        top: 0;
+        padding-bottom: 10px;
+    }
+
+    .timeline__currentDate {
+        bottom: 60px;
+        padding: 10px 0;
+    }
+
+    .timeline__line:before {
+        position: absolute;
+        right: 50%;
+        content: '';
+        height: 100%;
+        width: 1px;
+        background-color: #c2a67d;
+    }
+
+    .timeline__dot,
+    .timeline__label {
+        padding: 5px;
+        background-color: #fff;
+        -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+        z-index: 2;
+    }
+
+    .timeline__label {
+        display: block;
+        padding: 10px;
+    }
+
+    .timeline__dot:before,
+    .timeline__item:before {
+        content: '';
+        width: 10px;
+        height: 10px;
+        display: block;
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        background-color: #c2a67d;
+    }
+
+    .timeline__description {
+        padding: 0 0 130px 0;
+    }
+
+    .timeline__item {
+        padding: 20px 0;
+        margin: 5px;
+    }
+
+    .timeline__item.first {
+        padding: 0 0 20px;
+    }
+
+    .timeline__item:before {
+        -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+        margin-bottom: 15px;
+    }
+
+    .timeline__quote {
+        color: #8c8c8c;
+        line-height: 1.7;
+        padding: 30px;
+    }
+
+    .timeline__descriptionStartDate,
+    .timeline__descriptionCurrentDate {
+        position: relative;
+        padding-bottom: 40px;
+        margin: 0 5px;
+    }
+
+    .timeline__descriptionCurrentDate {
+        padding-top: 40px;
+    }
+
+    .timeline__descriptionStartDate:before,
+    .timeline__descriptionCurrentDate:before,
+    .timeline__descriptionCurrentDate:after {
+        content: '';
+        position: absolute;
+        width: 1px;
+        height: 40px;
+        background-color: #c2a67d;
+        left: 50%;
+    }
+
+    .timeline__descriptionStartDate:before,
+    .timeline__descriptionCurrentDate:before {
+        bottom: 0;
+    }
+
+    .timeline__descriptionCurrentDate:after {
+        top: 0;
+    }
+
+    @media (max-width: 480px) {
+        .timeline__line {
+            display: none;
+        }
+        .timeline__description {
+            text-align: center;
+            padding: 0;
+        }
+        .timeline__item {
+            padding: 0 0 15px;
+        }
+    }
+
+    @media (min-width: 481px) {
+        .timeline__item:before,
+        .timeline__descriptionStartDate,
+        .timeline__descriptionCurrentDate {
+            display: none;
+        }
+    }
+
+    @media (min-width: 481px) and (max-width: 767px) {
+        .timeline__line {
+            margin-left: 0px;
+        }
+        .timeline__description {
+            padding: 0 20px 130px 0;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1024px) {
+        .timeline__line {
+            margin-left: -30px;
+        }
+    }
+</style>
